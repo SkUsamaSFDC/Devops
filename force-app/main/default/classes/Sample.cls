@@ -6,4 +6,9 @@ public with sharing class Sample {
     {
         return a + b;
     }
+
+    public integer muk(integer a,integer b)
+    {
+        return a * b;
+    }
 }
